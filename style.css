@@ -14,7 +14,7 @@ body {
     max-width: 100%;
     flex-direction: column;
     align-items: center;
-    
+    margin-bottom: 100px;
 }
 
 
@@ -23,7 +23,7 @@ body {
     font-weight: bold;
     font-size: 60px;
     color: rgb(5, 55, 109);
-    margin-top: 80px;
+    margin-top: 50px;
     text-align: center;
     
 }
@@ -60,7 +60,7 @@ footer {
     text-align: center;
     position: fixed;
     bottom: 0;
-    padding: 3px;
+    padding: 1.5px;
     
 }
 
